@@ -7,7 +7,8 @@
 > **Last update:** May 2026  
 > **Users:** 100+ confirmed
 
-*Этот фикс решает вылеты игры путём объединения двух краков.*
+📣 **This guide is officially published and verified on a origin resource:**  
+[![GameDrive](https://img.shields.io/badge/GameDrive-Official_Publication-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://gamedrive.org/forza-horizon-6-premium-edition-2026-all-dlc/)  
 
 ---
 
