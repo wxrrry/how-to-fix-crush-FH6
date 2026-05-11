@@ -1,4 +1,4 @@
-<div align="center">
+<img width="352" height="134" alt="image" src="https://github.com/user-attachments/assets/27f0dad5-cd31-4f3e-a3ae-fe9af5e306fd" /><div align="center">
 
   **📣This guide is officially published and verified on a origin resource:**  
 
@@ -17,8 +17,10 @@
 ## 📑 Table of Contents / Содержание
 - [🇬🇧 English Version](#-english-version)
 - [🇷🇺 Русская версия](#-русская-версия)
-
+- [🎮 Add Game to Steam](#-add-game-to-steam-library--добавить-игру-в-steam)
+- [❓ Common Issues & Solutions](#-common-issues--solutions)
 ---
+
 
 ## 🇬🇧 English Version
 
@@ -245,3 +247,30 @@ D:\Games\НазваниеИгры\
 │  👍 Leave a reaction in Discussions                     │
 │  💬 Help newcomers — they will thank you                │
 └─────────────────────────────────────────────────────────┘
+
+--- 
+
+### 🎮 Add Game to Steam Library / Добавить игру в Steam
+> 💡 *Optional but recommended: gives you full Steam integration (library entry, guides, store page, overlay).*
+
+#### 🇬🇧 English
+1. Open **Steam** → top menu: **Games** → **Add a Non-Steam Game to My Library...**
+2. Click **Browse...** and navigate to the main game folder.
+3. Select `launcher.exe` (or your main loader `.exe`) and click **Open**.
+4. Click **Add Selected Programs**.
+5. Launch the game from your Steam library. When prompted, **authorize via your Microsoft account** (same as before).
+6. Once the game window appears, **close the launcher/authorization window**.
+✅ **Result:** The full version of the game now appears in your Steam library with access to community guides, the store page, Steam overlay, and more!
+
+#### 🇷🇺 Русская версия
+1. Откройте **Steam** → в верхнем меню: **Игры** → **Добавить стороннюю игру в мою библиотеку...**
+<img width="352" height="134" alt="image" src="https://github.com/user-attachments/assets/725c0595-0255-4c70-8ff2-dcd63367632a" />
+2. Нажмите **Обзор...** и перейдите в основную папку с игрой.
+3. Выберите файл `launcher.exe` (или основной `.exe` файл запуска) и нажмите **Открыть**.
+<img width="674" height="78" alt="image" src="https://github.com/user-attachments/assets/8e3389ca-7bf5-47fc-bf81-ed987bc99495" />
+4. Нажмите **Добавить выбранные приложения**.
+5. Запустите игру через библиотеку Steam. При запросе **авторизуйтесь через аккаунт Microsoft** (как обычно).
+6. После того как игра запустится, **закройте окно лаунчера/авторизации**.
+✅ **Результат:** Полная версия игры теперь отображается в вашей библиотеке Steam с доступом к руководствам, странице магазина, оверлею и другим функциям!
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/d1cddf64-2f14-46b5-97aa-97f233f30cec" />
+![Uploading image.png…]()
