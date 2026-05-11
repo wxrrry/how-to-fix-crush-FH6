@@ -1,4 +1,3 @@
-<img width="352" height="134" alt="image" src="https://github.com/user-attachments/assets/27f0dad5-cd31-4f3e-a3ae-fe9af5e306fd" /><div align="center">
 
   **📣This guide is officially published and verified on a origin resource:**  
 
@@ -265,12 +264,20 @@ D:\Games\НазваниеИгры\
 #### 🇷🇺 Русская версия
 1. Откройте **Steam** → в верхнем меню: **Игры** → **Добавить стороннюю игру в мою библиотеку...**
 
+
+
 <img width="352" height="134" alt="image" src="https://github.com/user-attachments/assets/725c0595-0255-4c70-8ff2-dcd63367632a" />
+
+
 
 3. Нажмите **Обзор...** и перейдите в основную папку с игрой.
 4. Выберите файл `launcher.exe` (или основной `.exe` файл запуска) и нажмите **Открыть**.
 
+
+
 <img width="674" height="78" alt="image" src="https://github.com/user-attachments/assets/8e3389ca-7bf5-47fc-bf81-ed987bc99495" />
+
+
 
 6. Нажмите **Добавить выбранные приложения**.
 7. Запустите игру через библиотеку Steam. При запросе **авторизуйтесь через аккаунт Microsoft** (как обычно).
