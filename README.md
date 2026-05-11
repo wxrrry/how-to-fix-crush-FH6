@@ -99,6 +99,16 @@ D:\Games\GameName\
 | Game closes after 5 minutes | Re-apply the fix (antivirus may have deleted/quarantined files). |
 | Files don't appear after copy | Check antivirus quarantine → restore files and add folder to exceptions. |
 
+--- 
+
+### If u have problem Error Code E:0-17
+
+This is an access issue or file timestamp corruption.
+1. try re-logging into xbox 
+2. Clear the Xbox cache
+3. Disconnect from the Internet and try offline
+4. Try changing the build or reinstalling
+
 ---
 
 ### 👥 For whom this fix is
@@ -207,6 +217,16 @@ D:\Games\НазваниеИгры\
 | `"Доступ запрещён"` при замене | Закрой игру и лаунчеры. Запусти от имени администратора. |
 | Игра закрывается через 5 минут | Повторно примени фикс (антивирус мог удалить/поместить файлы в карантин). |
 | Файлы не копируются/не появляются | Проверь карантин антивируса → восстанови файлы и добавь папку в исключения. |
+
+---
+
+### Если возникла проблема Error Code E:0-17
+
+Если у вас возникла проблема, код ошибки E: 0–17. Это проблема доступа или повреждение временной метки файла..
+1. Попробуйте перезайти в Xbox
+2. Очистите кэш Xbox
+3. Попробуйте отключиться от интернета и зайти оффлайн
+4. Смените билд игр или переустановите действующий
 
 ---
 
