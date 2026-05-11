@@ -1,5 +1,10 @@
 ![Views](https://hits.sh/github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.svg?style=flat-square&label=Views&color=blue)
+<div align="center">
 
+![Views](https://hits.sh/github.com/ВАШ_НИК/how-to-fix-crush-FH6.svg?style=flat&label=👁️+Views)
+![Stars](https://img.shields.io/github/stars/ВАШ_НИК/how-to-fix-crush-FH6?style=flat&label=⭐+Stars&color=yellow)
+
+</div>
 > ⚠️ **Disclaimer:** The author does NOT distribute pirated software or content violating GitHub rules. This repo is for informational purposes only. Any fixes mentioned are intended ONLY for legal license owners. For copyright claims — contact for removal.
 
 # 🎮 Game Fix: Combined Crack (OKCool + Chemicals)
