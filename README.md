@@ -2,7 +2,7 @@
   📣 **This guide is officially published and verified on a origin resource:**  
 
 ![Views](https://hits.sh/github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.svg?style=flat-square&label=Views&color=blue) [![GameDrive](https://img.shields.io/badge/GameDrive-Official_Publication-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://gamedrive.org/forza-horizon-6-premium-edition-2026-all-dlc/)  
-
+</div>
 > ⚠️ **Disclaimer:** The author does NOT distribute pirated software or content violating GitHub rules. This repo is for informational purposes only. Any fixes mentioned are intended ONLY for legal license owners. For copyright claims — contact for removal.
 
 # 🎮 Game Fix: Combined Crack (OKCool + Chemicals)
