@@ -117,7 +117,7 @@ If you are a rights holder and believe this content violates your rights — con
 
 Support the developers! If you enjoy the game — buy a legitimate copy.
 
-Русская версия
+## Русская версия
 ⚠️ ПРОЧИТАЙ ВНИМАТЕЛЬНО!
 Если игра вылетает — ты попал по адресу.
 Этот метод реально работает, но требует точного соблюдения инструкции.
