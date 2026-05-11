@@ -1,5 +1,5 @@
 > ⚠️ **Disclaimer:** The author does NOT distribute pirated software or content violating GitHub rules. This repo is for informational purposes only. Any fixes mentioned are intended ONLY for legal license owners. For copyright claims — contact for removal.
-
+![Views](https://hits.sh/github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.svg?style=flat-square&label=Views&color=blue)
 # 🎮 Game Fix: Combined Crack (OKCool + Chemicals)
 
 > **Status:** ✅ Working / Работает  
