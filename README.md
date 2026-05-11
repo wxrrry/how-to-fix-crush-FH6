@@ -82,7 +82,7 @@ D:\Games\GameName\
 2. Navigate to the main game folder
 3. Run steamclient_loader64 (or 32 for 32-bit systems)
 4. Play without crashes!
-
+```
 ❓ Common Issues & Solutions
 Problem	Solution
 Game crashes immediately	Check if Xbox is running. Launch ONLY via our steamclient_loader.
