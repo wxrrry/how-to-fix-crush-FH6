@@ -7,7 +7,6 @@
 > **Last update:** May 2026  
 > **Users:** 100+ confirmed
 
-This fix resolves game crashes by combining two cracks.  
 *Этот фикс решает вылеты игры путём объединения двух краков.*
 
 ---
@@ -31,6 +30,15 @@ Each crack individually caused conflicts or errors.
 **Solution:** merge `chemical crack` + `okcool crack` to compensate for their weaknesses.
 
 📌 *No extra code was added — just a clean merge of two existing fixes.*
+
+---
+
+### 👤 Author Note
+> I am **wxrry**. I am solely the author of this guide and the person who merged the fixes. I do not create, claim ownership of, or distribute the original cracks or game files. This repository is purely an instructional compilation.
+
+### ⚙️ How It Works
+> Microsoft Store / Xbox PC games require authentication **only inside the game itself**. This fix bypasses the initial launch verification but leaves the in-game login intact.  
+> 🔑 **You will play on your own personal account.** No shared accounts or third-party logins are needed.
 
 ---
 
@@ -134,6 +142,15 @@ If you are a rights holder and believe this content violates your rights — con
 
 ---
 
+### 👤 Примечание автора
+> Я **wxrry**. Я являюсь лишь автором данного гайда и человеком, объединившим фиксы. Я не создаю, не владею и не распространяю оригинальные краки или файлы игры. Этот репозиторий — исключительно информационная подборка.
+
+### ⚙️ Как это работает
+> Игры Microsoft Store / Xbox для ПК требуют авторизацию **только внутри самой игры**. Данный фикс обходит проверку при запуске, но сохраняет внутриигровой вход.  
+> 🔑 **Вы будете играть на своём личном аккаунте.** Никаких общих аккаунтов или сторонних входов не требуется.
+
+---
+
 ### 📥 Что внутри
 - ✅ Объединённый фикс (на основе двух источников)
 - ✅ Только необходимые файлы
@@ -200,27 +217,8 @@ D:\Games\НазваниеИгры\
 + chemical crack + okcool crack
 = Просто объединение — ничего не удалено, ничего не добавлено
 ```
-👥 Для кого этот фикс
-Для 100+ человек, которые уже используют — оставьте реакцию 👍
-Для новичков — помогаем в Issues или Discussions
-Для тех, у кого игра вылетала на других краках
-⚖️ Юридическое примечание
-Данный материал предоставлен в образовательных целях.
-Если вы правообладатель и считаете, что содержимое нарушает ваши права — свяжитесь с нами для удаления.
-💡 Поддержите разработчиков! Если игра вам нравится — купите лицензионную копию.
-⭐ Если помогло — поставь звезду репозиторию!
 ┌─────────────────────────────────────────────────────────┐
 │  ⭐ Star this repo if it helped you!                    │
 │  👍 Leave a reaction in Discussions                     │
 │  💬 Help newcomers — they will thank you                │
 └─────────────────────────────────────────────────────────┘
-
-### 🔧 Что было исправлено:
-1. **Таблицы:** Восстановлен синтаксис Markdown (добавлены выравнивающие `|` и пробелы), теперь они корректно рендерятся.
-2. **Блоки кода:** Убраны некорректные теги (`bash` для нумерованных списков заменён на обычный текст или `text`), пути и файлы обернуты в `code`-формат для читаемости.
-3. **Структура:** Унифицированы уровни заголовков (`##` для языковых секций, `###` для подразделов), добавлены чёткие разделители.
-4. **Ссылки:** Добавлены относительные ссылки на `Issues` и `Discussions`, которые автоматически работают на GitHub.
-5. **Мета-комментарии:** Удалён блок `📌 Ключевые моменты, которые добавлены:` — он не нужен в финальном README.
-6. **ASCII-блок:** Выровнен и помещён в `code`-блок, чтобы моноширинный шрифт не "ломался" на разных устройствах.
-
-Файл полностью готов к коммиту. 🚀
